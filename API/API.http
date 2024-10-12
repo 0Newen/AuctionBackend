@@ -1,0 +1,14 @@
+@API_HostAddress = https://localhost:7079
+
+###
+GET {{API_HostAddress}}/api/feetype/
+Accept: application/json
+
+###
+GET {{API_HostAddress}}/api/vehicletype/
+Accept: application/json
+
+###
+GET {{API_HostAddress}}/api/vehicle/
+Accept: application/json
+
